@@ -46,7 +46,10 @@ coinCount(...coinage):
 
 Part 5. Create index.html file
 
-<img width="632" alt="Screenshot 2023-06-07 at 6 52 14 PM" src="https://github.com/isigala4/cit281-p3/assets/133719793/7c5d75dd-c8fc-4969-a9cd-594b453901bd">
+(This is the actual code for the index.html file for the project)
+
+<img width="794" alt="Screenshot 2023-06-07 at 7 02 42 PM" src="https://github.com/isigala4/cit281-p3/assets/133719793/5b08a3c3-1998-4111-874e-e186766735bc">
+
 
 Part 6. Initialize project folder as a Node.js folder, and install Fastify
 

@@ -46,6 +46,8 @@ coinCount(...coinage):
 
 Part 5. Create index.html file
 
+<img width="632" alt="Screenshot 2023-06-07 at 6 52 14 PM" src="https://github.com/isigala4/cit281-p3/assets/133719793/7c5d75dd-c8fc-4969-a9cd-594b453901bd">
+
 Part 6. Initialize project folder as a Node.js folder, and install Fastify
 
 Part 7. Update web server code to import Fastify and fs packages, and coinCount function
